@@ -1,0 +1,7 @@
+[2026-10-18T14:38:07Z] === AST ITERATION 1 START | repo=holoviz/holoviews sha=e4168fd4 ===
+[2026-10-18T14:38:07Z] [iter=1] PHASE START: ast repo=holoviz/holoviews sha=e4168fd4
+[2026-10-18T14:38:07Z] [iter=1] Building AST aggregate chunks
+[2026-10-18T14:45:01Z] [iter=1] AST chunks built count=1 triples=4745880
+[2026-10-18T14:45:01Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/e4168fd4b99446003bda9b219421b7422f8b50d0/.complete
+[2026-10-18T14:45:01Z] [iter=1] PHASE END: ast elapsed_s=414 elapsed_min=6.9
+[2026-10-18T14:45:01Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
